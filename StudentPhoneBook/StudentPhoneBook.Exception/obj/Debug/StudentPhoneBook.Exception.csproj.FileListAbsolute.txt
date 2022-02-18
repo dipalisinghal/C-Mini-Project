@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\LTTS\Student phone Book\StudentPhoneBook.Exception\bin\Debug\StudentPhoneBook.Exception.exe.config
+C:\Users\admin\source\repos\LTTS\Student phone Book\StudentPhoneBook.Exception\bin\Debug\StudentPhoneBook.Exception.exe
+C:\Users\admin\source\repos\LTTS\Student phone Book\StudentPhoneBook.Exception\bin\Debug\StudentPhoneBook.Exception.pdb
+C:\Users\admin\source\repos\LTTS\Student phone Book\StudentPhoneBook.Exception\obj\Debug\StudentPhoneBook.Exception.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\LTTS\Student phone Book\StudentPhoneBook.Exception\obj\Debug\StudentPhoneBook.Exception.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\LTTS\Student phone Book\StudentPhoneBook.Exception\obj\Debug\StudentPhoneBook.Exception.exe
+C:\Users\admin\source\repos\LTTS\Student phone Book\StudentPhoneBook.Exception\obj\Debug\StudentPhoneBook.Exception.pdb
+C:\Users\MrunalAkshayRuikaar\Desktop\C# Mini Project\StudentPhoneBook\StudentPhoneBook.Exception\bin\Debug\StudentPhoneBook.Exception.exe.config
+C:\Users\MrunalAkshayRuikaar\Desktop\C# Mini Project\StudentPhoneBook\StudentPhoneBook.Exception\bin\Debug\StudentPhoneBook.Exception.exe
+C:\Users\MrunalAkshayRuikaar\Desktop\C# Mini Project\StudentPhoneBook\StudentPhoneBook.Exception\bin\Debug\StudentPhoneBook.Exception.pdb
+C:\Users\MrunalAkshayRuikaar\Desktop\C# Mini Project\StudentPhoneBook\StudentPhoneBook.Exception\obj\Debug\StudentPhoneBook.Exception.csproj.AssemblyReference.cache
+C:\Users\MrunalAkshayRuikaar\Desktop\C# Mini Project\StudentPhoneBook\StudentPhoneBook.Exception\obj\Debug\StudentPhoneBook.Exception.csproj.CoreCompileInputs.cache
+C:\Users\MrunalAkshayRuikaar\Desktop\C# Mini Project\StudentPhoneBook\StudentPhoneBook.Exception\obj\Debug\StudentPhoneBook.Exception.exe
+C:\Users\MrunalAkshayRuikaar\Desktop\C# Mini Project\StudentPhoneBook\StudentPhoneBook.Exception\obj\Debug\StudentPhoneBook.Exception.pdb

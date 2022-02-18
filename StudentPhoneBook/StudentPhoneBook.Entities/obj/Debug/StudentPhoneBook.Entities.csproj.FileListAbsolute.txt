@@ -1,0 +1,13 @@
+C:\Users\admin\source\repos\LTTS\Student phone Book\StudentPhoneBook.Entities\bin\Debug\StudentPhoneBook.Entities.exe.config
+C:\Users\admin\source\repos\LTTS\Student phone Book\StudentPhoneBook.Entities\bin\Debug\StudentPhoneBook.Entities.exe
+C:\Users\admin\source\repos\LTTS\Student phone Book\StudentPhoneBook.Entities\bin\Debug\StudentPhoneBook.Entities.pdb
+C:\Users\admin\source\repos\LTTS\Student phone Book\StudentPhoneBook.Entities\obj\Debug\StudentPhoneBook.Entities.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\LTTS\Student phone Book\StudentPhoneBook.Entities\obj\Debug\StudentPhoneBook.Entities.exe
+C:\Users\admin\source\repos\LTTS\Student phone Book\StudentPhoneBook.Entities\obj\Debug\StudentPhoneBook.Entities.pdb
+C:\Users\MrunalAkshayRuikaar\Desktop\C# Mini Project\StudentPhoneBook\StudentPhoneBook.Entities\bin\Debug\StudentPhoneBook.Entities.exe.config
+C:\Users\MrunalAkshayRuikaar\Desktop\C# Mini Project\StudentPhoneBook\StudentPhoneBook.Entities\bin\Debug\StudentPhoneBook.Entities.exe
+C:\Users\MrunalAkshayRuikaar\Desktop\C# Mini Project\StudentPhoneBook\StudentPhoneBook.Entities\bin\Debug\StudentPhoneBook.Entities.pdb
+C:\Users\MrunalAkshayRuikaar\Desktop\C# Mini Project\StudentPhoneBook\StudentPhoneBook.Entities\obj\Debug\StudentPhoneBook.Entities.csproj.AssemblyReference.cache
+C:\Users\MrunalAkshayRuikaar\Desktop\C# Mini Project\StudentPhoneBook\StudentPhoneBook.Entities\obj\Debug\StudentPhoneBook.Entities.csproj.CoreCompileInputs.cache
+C:\Users\MrunalAkshayRuikaar\Desktop\C# Mini Project\StudentPhoneBook\StudentPhoneBook.Entities\obj\Debug\StudentPhoneBook.Entities.exe
+C:\Users\MrunalAkshayRuikaar\Desktop\C# Mini Project\StudentPhoneBook\StudentPhoneBook.Entities\obj\Debug\StudentPhoneBook.Entities.pdb
